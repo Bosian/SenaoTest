@@ -1,0 +1,6 @@
+framework module Pods_SenaoTest {
+  umbrella header "Pods-SenaoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
